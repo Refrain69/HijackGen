@@ -123,4 +123,7 @@
   <data name="linkSite.Text" xml:space="preserve">
     <value>开源地址</value>
   </data>
+  <data name="lbLicense.Text" xml:space="preserve">
+    <value>MIT License</value>
+  </data>
 </root>
