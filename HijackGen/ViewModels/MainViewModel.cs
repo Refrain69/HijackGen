@@ -114,7 +114,7 @@ internal partial class MainViewModel : ViewModelBase
             ExportInfos = Parser.GetExportInfos();
             ImportSearchedInfos = new ObservableCollection<ImportInfo>(ImportInfos);
             ExportSearchedInfos = new ObservableCollection<ExportInfo>(ExportInfos);
-            PeInfo = $@"{GuiStrings.Architecture}: {Parser.Architecture}{Environment.NewLine}{GuiStrings.ExportCount}: {ImportInfos.Count}{Environment.NewLine}{GuiStrings.ImportCount}: {ExportInfos.Count}";
+            PeInfo = $@"{GuiStrings.Architecture}: {Parser.Architecture}{Environment.NewLine}{GuiStrings.ImportCount}: {ImportInfos.Count}{Environment.NewLine}{GuiStrings.ExportCount}: {ExportInfos.Count}";
         }
         catch (Exception ex)
         {
