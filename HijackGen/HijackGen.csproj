@@ -26,9 +26,9 @@
         <ApplicationIcon>Assets\logo.ico</ApplicationIcon>
         <Nullable>disable</Nullable>
         <SatelliteResourceLanguages>zh-Hans;en-US</SatelliteResourceLanguages>
-        <Authors>detached64</Authors>
+        <Authors>Refrain69</Authors>
         <Version>2.2.2</Version>
-        <Copyright>Copyright © 2025-2026 detached64</Copyright>
+        <Copyright>Copyright © 2025-2026 Refrain69</Copyright>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)'=='Release'">

@@ -22,7 +22,7 @@
         <TextBlock Margin="10" Text="MIT License" />
         <TextBlock Margin="10" Text="{Binding Copyright}" />
         <TextBlock Margin="10">
-            <Hyperlink Command="{Binding OpenLinkCommand}" CommandParameter="https://github.com/detached64/HijackGen">
+            <Hyperlink Command="{Binding OpenLinkCommand}" CommandParameter="https://github.com/Refrain69/HijackGen">
                 <TextBlock Text="{x:Static s:GuiStrings.SourceUrl}" />
             </Hyperlink>
         </TextBlock>

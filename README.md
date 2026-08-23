@@ -14,9 +14,9 @@ A simple tool to generate dll source code for dll hijacking.
 
 ## Download
 
-[Release](https://github.com/detached64/HijackGen/releases/latest)
+[Release](https://github.com/Refrain69/HijackGen/releases/latest)
 
-Get ci builds [here](https://github.com/detached64/HijackGen/actions/workflows/build.yml).
+Get ci builds [here](https://github.com/Refrain69/HijackGen/actions/workflows/build.yml).
 
 ## Requirements
 
